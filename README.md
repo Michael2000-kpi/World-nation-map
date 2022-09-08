@@ -1,3 +1,4 @@
+Task:Development of Application that is integrated with the REST Countries API to pull country data and display it for user .
 Goal was to allow user to : 
 1-See all countries from the API on the homepage. 
 2-Search for a country using an input field. 
